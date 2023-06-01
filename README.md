@@ -118,11 +118,9 @@ Example command:
 
 To run the project, execute the following command:
 
-
 ```sh
   Double-click on the index file (index.html)
 ```
-
 
 ### Run tests
 
@@ -140,7 +138,7 @@ Any web browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-git 
+git
 
 <!-- AUTHORS -->
 
@@ -190,7 +188,7 @@ I would like to thank Mircroverse for the learning experience
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ 
+## ❓ FAQ
 
 - What is this project about?
 
@@ -202,8 +200,7 @@ I would like to thank Mircroverse for the learning experience
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
