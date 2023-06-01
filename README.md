@@ -1,30 +1,3 @@
-`<a name="readme-top"></a>`
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -51,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-Microverse]
 
-> A project to master all of the tools and best practices learned in previous steps.
+A project to master all of the tools and best practices learned in previous steps.
 
 ## 🛠 Built With Html, CSS, Github
 
@@ -72,8 +45,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features
-
-> Shows practical use of the tools learned with Microverse
 
 - Learned Git
 - Learned Linters
@@ -157,9 +128,6 @@ To run the project, execute the following command:
 
 To run tests, run the following command:
 
-
-
-
 ```sh
   N/A
 ```
@@ -171,6 +139,8 @@ You can deploy this project using:
 Any web browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+git 
 
 <!-- AUTHORS -->
 
@@ -187,8 +157,6 @@ Any web browser
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add a hello animated illustration]**
 
@@ -222,16 +190,11 @@ I would like to thank Mircroverse for the learning experience
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL)
+## ❓ FAQ 
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- What is this project about?
 
-- **[Question_1]**
-
-  - [Answer_1]
-- **[Question_2]**
-
-  - [Answer_2]
+  - About learning and developing skills learned at Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
