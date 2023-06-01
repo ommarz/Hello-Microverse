@@ -25,24 +25,13 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-<h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
+📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -60,66 +49,41 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] `<a name="about-project"></a>`
+# 📖 [Hello-Microverse]
 
-> A project to master all of the tools and best practices learnt in previous steps.
+> A project to master all of the tools and best practices learned in previous steps.
 
+## 🛠 Built With Html, CSS, Github
 
-## 🛠 Built With `<a name="built-with"></a>`
-
-Html, CSS, Github
-
-### Tech Stack `<a name="tech-stack"></a>`
-
+### Tech Stack
 
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
+  </details>
 
 <details>
   <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
 </details>
 
 <details>
 <summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
 </details>
 
 <!-- Features -->
 
-### Key Features `<a name="key-features"></a>`
+### Key Features
 
-> Shows practical use of the tools learnt with Microverse
+> Shows practical use of the tools learned with Microverse
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- Learned Git
+- Learned Linters
+- Learned Descriptive Commit Messages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo `<a name="live-demo"></a>`
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started `<a name="getting-started"></a>`
-
-> Describe how a new developer could make use of your project.
+## 💻 Getting Started
 
 To get a local copy up and running, follow these steps.
 
@@ -135,6 +99,13 @@ Example command:
 ```
  -->
 
+* NPM
+* Browser
+* Code Editor
+* Git
+* Git Bash
+* lintrunner
+
 ### Setup
 
 Clone this repository to your desired folder:
@@ -142,15 +113,26 @@ Clone this repository to your desired folder:
 <!--
 Example commands:
 
-```sh
+sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
-```
+
 --->
+
+```
+cd my-folder
+git clone git@https://github.com/ommarz/Hello-Microverse.git
+cd my-project
+```
 
 ### Install
 
-Install this project with:
+Install linters using:
+
+```
+git init
+git clone https://github.com/ommarz/linters-config.git
+```
 
 <!--
 Example command:
@@ -165,73 +147,56 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
 ```sh
-  rails server
+  Double-click on the index file (index.html)
 ```
---->
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
+
+
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  N/A
 ```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+Any web browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors `<a name="authors"></a>`
+## 👥 Authors
 
 👤 **Omar Gutierrez**
 
 - GitHub: [@ommarz](https://github.com/ommarz)
 - Twitter: [@ommarz](https://twitter.com/ommarz)
-- LinkedIn: [Oma Gutierrez](https://linkedin.com/iin/omar-gutierrez-arias-b41205273/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Omar Gutierrez](https://linkedin.com/iin/omar-gutierrez-arias-b41205273/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features `<a name="future-features"></a>`
+## 🔭 Future Features
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Add a hello animated illustration]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing `<a name="contributing"></a>`
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -241,27 +206,23 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support `<a name="support"></a>`
+## ⭐️ Show your support
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give it a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments `<a name="acknowledgements"></a>`
+## 🙏 Acknowledgments
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Mircroverse for the learning experience
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) `<a name="faq"></a>`
+## ❓ FAQ (OPTIONAL)
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
@@ -276,7 +237,7 @@ I would like to thank...
 
 <!-- LICENSE -->
 
-## 📝 License `<a name="license"></a>`
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
